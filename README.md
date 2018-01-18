@@ -1,2 +1,4 @@
 # GameBase
-Projet EPSI Game
+
+Projet EPSI Game qui consite à créer une application en J2EE  .
+
